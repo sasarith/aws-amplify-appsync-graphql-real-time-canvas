@@ -37,3 +37,13 @@ npm start
 ### License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+```let languageChosen = 'es'
+
+const tes = {
+  en: 'Hello World!',
+  es: 'Hola Mundo!'
+}
+
+console.log(tes[languageChosen])
+```
