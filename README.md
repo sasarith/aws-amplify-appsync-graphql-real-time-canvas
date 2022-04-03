@@ -48,4 +48,3 @@ const tes = {
 
 console.log(tes[languageChosen])
 ```
-a
